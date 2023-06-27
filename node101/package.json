@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "dev": "nodemon src/index.mjs",
+        "start": "SET NODE_ENV=production && node src/index.mjs"
+    }
+}
