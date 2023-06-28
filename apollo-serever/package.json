@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "dev": "nodemon src/index.mjs"
+  },
+  "dependencies": {
+    "@apollo/server": "^4.7.5",
+    "@faker-js/faker": "^8.0.2",
+    "axios": "^1.4.0",
+    "graphql": "^16.7.1",
+    "sequelize": "^6.32.1",
+    "sqlite": "^4.2.1",
+    "sqlite3": "^5.1.6"
+  }
+}
